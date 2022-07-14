@@ -5,7 +5,6 @@ const App = () => {
   return (
     <NavigationContainer>
       <Navigation />
-      <Text>Hello World</Text>
     </NavigationContainer>
   );
 }
